@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ A\ beamer\ is\ a\ device\ that\ can\ be\ charged\ and\ fired.\ When\ you\ charge\r\n\ the\ beamer,\ it\ memorizes\ the\ current\ room.\ When\ \ you\ fire\ the\ beamer,\r\n\ it\ transports\ you\ immediately\ back\ to\ the\ room\ it\ was\ charged\ in\r\n\r\n\ @author\ Agina\ Oghenemena\ Benaiah\r\n\ @version\ march\ 7,\ 2019\r\n
+comment1.params=description\ weight\ name
+comment1.target=Beamer(java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item.\r\n\ \r\n\ @param\ description\ The\ description\ of\ the\ item\r\n\ @param\ weight\ The\ weight\ of\ the\ item\r\n\ @param\ name\ The\ short\ form\ of\ the\ description\r\n
+numComments=2

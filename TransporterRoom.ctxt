@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ The\ transporterRoom\ class,randomly\ transports\ a\ player\ into\ one\ of\ the\r\n\ other\ rooms\r\n\r\n\ @author\ Agina\ Oghenemena\ Benaiah\r\n\ @version\ march\ 7,\ 2019\r\n
+comment1.params=description
+comment1.target=TransporterRoom(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TransporterRoom\r\n\ \r\n\ @param\ description\ The\ description\ of\ the\ room\r\n
+comment2.params=direction
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\r\n\ Returns\ a\ random\ room\ regardless\ of\ the\ direction\r\n\ \r\n\ @param\ direction\ The\ exit's\ direction\r\n\ @return\ Returns\ a\ random\ room\r\n
+comment3.params=
+comment3.target=Room\ findRandomRoom()
+comment3.text=\r\n\ FindRandomRoom\ picks\ the\ random\ room\r\n\ \r\n\ @return\ returns\ a\ random\ room\r\n
+numComments=4
